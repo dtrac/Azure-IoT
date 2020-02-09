@@ -1,0 +1,10 @@
+firstName: John
+lastName: Doe
+age: 23
+hobbies:
+    - type: Sports
+      value: Golf
+    - type: Leisure
+      value: Reading
+    - type: Leisure
+      value: Guitar
